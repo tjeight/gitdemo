@@ -1,3 +1,4 @@
 # gitdemo
+
 This is demo git project<br>
-Author :Tejas Jagdale
+Author :The Tejas Jagdale
